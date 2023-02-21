@@ -21,21 +21,21 @@
 
 -<Page quest="chHall_MeetGuest" photo="DailyBonusPhoto_Cat" id="Cat">
 
-<Reward count="1" type="BombAndLineBoost" day="1"/>
+<Reward count="1" type="MultiplyFishBoost" day="1"/>
 
-<Reward count="1" type="LightningBoost" day="2"/>
+<Reward count="1" type="BombAndLineBoost" day="2"/>
 
-<Reward count="1" type="MultiplyFishBoost" day="3"/>
+<Reward count="1" type="LightningBoost" day="3"/>
 
-<Reward count="1" type="BombAndLineBoost" day="4"/>
+<Reward count="1" type="MultiplyFishBoost" day="4"/>
 
-<Reward count="1" type="SwapBoosterBonus" day="5"/>
+<Reward count="1" type="BombAndLineBoost" day="5"/>
 
-<Reward count="1" type="LightningBoost" day="6"/>
+<Reward count="1" type="SwapBoosterBonus" day="6"/>
 
 <Reward count="60" type="ProtectLives" day="7"/>
 
-<Reward count="1" type="BombAndLineBoost" day="7"/>
+<Reward count="1" type="MultiplyFishBoost" day="7"/>
 
 </Page>
 
